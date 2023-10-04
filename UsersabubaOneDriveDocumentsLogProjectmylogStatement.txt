@@ -1,0 +1,4 @@
+%-7 2023-10-03 15:59:43,949 [restartedMain] UnitProject.LogjProjectApplication  - Information
+%-7 2023-10-03 15:59:43,949 [restartedMain] UnitProject.LogjProjectApplication  - Error
+%-7 2023-10-03 15:59:43,949 [restartedMain] UnitProject.LogjProjectApplication  - Critical Error
+%-7 2023-10-03 15:59:43,949 [restartedMain] UnitProject.LogjProjectApplication  - Warning
